@@ -3,4 +3,4 @@
 	url = https://github.com/Julian30520/user-module.git
 [submodule "health-module"]
 	path = health-module
-	url = ./health-module
+	url = https://github.com/Julian30520/health-module.git

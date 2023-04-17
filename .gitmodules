@@ -1,3 +1,6 @@
 [submodule "user-module"]
 	path = user-module
 	url = https://github.com/Julian30520/user-module.git
+[submodule "healthcheck-module"]
+	path = healthcheck-module
+	url = https://github.com/Julian30520/healthcheck-module.git
